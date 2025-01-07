@@ -1,0 +1,1 @@
+# yandex-qa-python-pom-allure-sprint-6
