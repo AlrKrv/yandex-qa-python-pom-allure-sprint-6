@@ -1,7 +1,7 @@
 import allure
 import pytest
 from locators.home_page_locators import TestHomePageLocators
-from test_data import expected_texts, DZEN_URL, BASE_URL
+from data_tests import expected_texts, DZEN_URL, BASE_URL
 
 
 class TestHomePageSamokat:

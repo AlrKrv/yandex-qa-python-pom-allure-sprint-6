@@ -1,7 +1,7 @@
 import allure
 import pytest
 from locators.order_form_page_locators import TestOrderFormPageLocators
-from test_data import user_1, user_2
+from data_tests import user_1, user_2
 
 
 class TestOrderForm:
